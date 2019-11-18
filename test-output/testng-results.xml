@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70066" started-at="2019-11-18T10:56:50Z" finished-at="2019-11-18T10:58:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70066" started-at="2019-11-18T10:56:50Z" finished-at="2019-11-18T10:58:01Z">
+      <class name="com.qa.seleniumtests.BrokenLinksTest">
+        <test-method status="PASS" signature="verifyToFindTheBrokenLinksTest()[pri:0, instance:com.qa.seleniumtests.BrokenLinksTest@62ee68d8]" name="verifyToFindTheBrokenLinksTest" duration-ms="70025" started-at="2019-11-18T10:56:50Z" finished-at="2019-11-18T10:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyToFindTheBrokenLinksTest -->
+      </class> <!-- com.qa.seleniumtests.BrokenLinksTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
